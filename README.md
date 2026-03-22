@@ -1,4 +1,4 @@
-# Smart Shutdown
+# Linux Power Automation
 
 **Smart Shutdown** is a lightweight Linux automation tool designed to reduce unnecessary energy consumption by safely powering off a system during low-demand hours.
 
